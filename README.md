@@ -2,7 +2,7 @@
 
 Hi, my name is Rohit Patil and I am currently a Senior in High School. I have taken AP Computer Science A: Java, in 11th grade. Now I am currently in iOS, where we use Swift to create apps.
 
-## New to Github
+## Github
 
   I have learned to use GitHub Desktop, which is extremely convenient to push and pull changes when working with multiple people. I am also learning to make repositories and connecting them to XCode projects.
 
@@ -13,4 +13,6 @@ Hi, my name is Rohit Patil and I am currently a Senior in High School. I have ta
   
 
 [Cash Register App](https://github.com/RohitP123/Cash-Register-App)
-This is an app I have been working on that is supposed to help a person count the money in a cash register quickly and efficiently. It how two specific functions to adding bills and coins. One is pressing the button to add or subtract a quantity, and the other is a slider allowing one to scroll to a specific quantity of bills or coins quickly. Also, there is an option to manually put in an amount of money. Also, there is a save value button, which saves the total money you have inputted, as well as a history to show what has been added or subtracted. This app is hopefully useful for small businesses or anyone that require money to be counted and saved quickly.
+
+
+  This is an app I have been working on that is supposed to help a person count the money in a cash register quickly and efficiently. It how two specific functions to adding bills and coins. One is pressing the button to add or subtract a quantity, and the other is a slider allowing one to scroll to a specific quantity of bills or coins quickly. Also, there is an option to manually put in an amount of money. Also, there is a save value button, which saves the total money you have inputted, as well as a history to show what has been added or subtracted. This app is hopefully useful for small businesses or anyone that require money to be counted and saved quickly.
