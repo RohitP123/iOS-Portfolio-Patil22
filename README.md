@@ -17,9 +17,9 @@ Hi, my name is Rohit Patil and I am currently a Senior in High School. I have ta
   This is an app I have been working on that is supposed to help a person count the money in a cash register quickly and efficiently. It how two specific functions to adding bills and coins. One is pressing the button to add or subtract a quantity, and the other is a slider allowing one to scroll to a specific quantity of bills or coins quickly. Also, there is an option to manually put in an amount of money. Also, there is a save value button, which saves the total money you have inputted, as well as a history to show what has been added or subtracted. This app is hopefully useful for small businesses or anyone that require money to be counted and saved quickly.
 
   <p float="left">
-  <img src="https://github.com/RohitP123/iOS-Portfolio-Patil22/blob/main/Screen%20Shot%202022-04-04%20at%2010.23.50%20AM.png" />
+  <img src="https://github.com/RohitP123/iOS-Portfolio-Patil22/blob/main/Screen%20Shot%202022-04-04%20at%2010.23.50%20AM.png" width=50px/>
   <img src="https://github.com/RohitP123/iOS-Portfolio-Patil22/blob/main/Screen%20Shot%202022-04-05%20at%2010.37.33%20AM.png" />
-  <img src="https://github.com/RohitP123/iOS-Portfolio-Patil22/blob/main/Screen%20Shot%202022-04-05%20at%2010.38.15%20AM.png" 
+  <img src="https://github.com/RohitP123/iOS-Portfolio-Patil22/blob/main/Screen%20Shot%202022-04-05%20at%2010.38.15%20AM.png" />
   </p>
   
   [EPHS GPS App](https://github.com/sarthyparty/Find-My-EP)
@@ -28,7 +28,7 @@ Hi, my name is Rohit Patil and I am currently a Senior in High School. I have ta
     
   <p float="left">
   <img src="https://github.com/RohitP123/iOS-Portfolio-Patil22/blob/main/Screen%20Shot%202022-04-04%20at%2011.12.04%20AM.png" />
-  <img src="https://github.com/RohitP123/iOS-Portfolio-Patil22/blob/main/Screen%20Shot%202022-04-04%20at%2011.12.41%20AM.png" 
+  <img src="https://github.com/RohitP123/iOS-Portfolio-Patil22/blob/main/Screen%20Shot%202022-04-04%20at%2011.12.41%20AM.png" />
   </p>
   
   ## Experience
