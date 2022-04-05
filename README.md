@@ -33,7 +33,7 @@ Hi, my name is Rohit Patil and I am currently a Senior in High School. I have ta
   
   ## Programming Experience
   
-  Java (2020 - )
+  Java (2020 - current)
   
-  Swift (2022 - )
+  Swift (2022 - current)
   
