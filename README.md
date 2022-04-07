@@ -9,8 +9,16 @@ Hi, my name is Rohit Patil and I am currently a Senior in High School. I have ta
 
 ## XCode
 
-  I have spent hours learning how to use the basics of XCode. I have experience with coding in Java after taking AP Java my junior year. Therefore, I have spent time trying to learn the new syntax of XCode. I have also followed a tutorial to make an app that shows the location of a landmark. This is a very basic app to help get the feel of XCode. I also created a Tip Calculator App following a tutorial, to better understand Swift syntax. I am currently working on an app that helps a user navigate around our Eden Prairie High School, given a staring room and an ending room.
+  I have spent hours learning how to use the basics of XCode. I have experience with coding in Java after taking AP Java my junior year. Therefore, I have spent time trying to learn the new syntax of XCode. I have also followed a tutorial to make an app that shows the location of a landmark. This is a very basic app to help get the feel of XCode.
   
+  
+[Tip Calculator App](https://github.com/RohitP123/FinalTipCalc)
+ 
+ This is an app that I worked on with a friend to help familiarize ourselves with Swift syntax. We had followed a tutorial to create an app that allows for tip amounts to be calculated. We made it so that the number of people can be customized as well as the tip amount. Then the app will show how much you tip and if you want, it also shows how much each person would tip for an even split. Overall, this was a pretty basic app to help us understand the basics of Swift. 
+ 
+ <p float="left">
+  <img src="https://github.com/RohitP123/iOS-Portfolio-Patil22/blob/main/Tip%20Calculator%20App.png" width=20% height=80%/>
+ </p>
 
 [Cash Register App](https://github.com/RohitP123/Cash-Register-App)
 
