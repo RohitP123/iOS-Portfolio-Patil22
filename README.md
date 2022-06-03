@@ -30,12 +30,13 @@ Hi, my name is Rohit Patil and I am currently a Senior in High School. I have ta
   <img src="https://github.com/RohitP123/iOS-Portfolio-Patil22/blob/main/Cash%20Register%20App%20Saved%20Value.png" width=20% height=80%/>
   </p>
   
-  [EPHS GPS App](https://github.com/sarthyparty/Find-My-EP)
+  [EPHS Maps](https://github.com/sarthyparty/Find-My-EP)
   
    This is a navigation app that was specifically built for our local Eden Prairie High School to allow a person to navigate from place to place within the school. At our High School, we switch classes every quarter and many people have a hard time figuring out how to get to their next class towards the beginning of a new quarter, especially underclassmen. Therefore, this app allows for a student to input in their starting position and the class they need to get to and draws out a path showing the shortest path to get there as shown below. It also, gives a time estimate to make sure students get to class within the seven minute passing time that is alloted by the school. We use the A* algorithm for our shortest distance calculation. The app is functional and is now available in the app store. Thanks to [Sarthak Agrawal](https://github.com/sarthyparty/Find-My-EP), [Viswa Nadimpalli](https://github.com/ViswaNadimpalli) , [Chang Yang](https://github.com/ZeoShadow) and [Jennifer Nelson](https://github.com/jnelsonep) for their contributions.
   <p float="left">
-  <img src="https://github.com/RohitP123/iOS-Portfolio-Patil22/blob/main/EPHS%20GPS%20Room%20Input.png" width = 20% height=80%/>
-  <img src="https://github.com/RohitP123/iOS-Portfolio-Patil22/blob/main/EPHS%20GPS%20Map%20View.png" width = 20% height=80%/>
+  <img src="https://github.com/RohitP123/iOS-Portfolio-Patil22/blob/main/Intro%20Screen.PNG" width = 20% height=80%/>
+  <img src="https://github.com/RohitP123/iOS-Portfolio-Patil22/blob/main/Map%20Display%201.PNG" width = 20% height=80%/>
+  <img src="https://github.com/RohitP123/iOS-Portfolio-Patil22/blob/main/Map%20Display%202.PNG" width = 20% height=80%/>
   </p>
   
   ## Programming Experience
